@@ -14,7 +14,11 @@
 - Main cards are changed and updated to reflect the current changing landscape as well as relay proper information needed to their customers.
 - Main cards used to promote products the business feels are needed.
 - Gallery is able to promote its top beers as well as any seasonal or special releases.
-- Other pages of the site don't alter from the main color scheme, but incorporate the strong colors associated with their different beers into the beers page. 
+- Other pages of the site don't alter from the main color scheme, but incorporate the strong colors associated with their different products into the [beers page.](https://wildrosetaproom.com/beer/) 
+- Wild Rose uses a second site with age verification for their store. This is run through Shopify, the color scheme follows the main site and a clickable menu option to go back to the main site is on the nav bar.
+- The sticky header is no longer used on the Shopify hosted site, users lose site of the menu and most importantly the logo when scrolling.
+- Cards on the desktop Shopify site shrink instead of stack, and the overall site is responsive.
+- Shopify site offers a search option that the main site does not.
 2. **Accessibility & Usability**
 - Not all links that open new tabs are labeled for use by assistive technology.
 - Menu options not labeled for use by assistive technology.
@@ -26,5 +30,7 @@
 - Location and gallery information becomes stacked and condensed for easy viewing on mobile devices.
 - Mobile menu switches from horizontal nav bar to a hamburger menu.
 - Hamburger menu switches locations between androids and iOS users.
+- Shopify hosted store uses the hamburger menu as well, and the cards become stacked staying a good viewable size for the user. 
+- Shopify mobile site also offers a search option that the main site does not.
 ## Conclusion
 The Wild Rose Brewery uses a modern design with vintage color styles to pay tribute to their tap room. With good ability to scan and responsiveness it gives viewers with no accessibility needs a good experience. Website accessibility could be improved, but the overall product helps more than it hinders its business. Labeling buttons, forms and photos will help screen readers and improve the accessibility for impaired users.
